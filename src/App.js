@@ -21,12 +21,15 @@ function App() {
      <ClassProps Course1="JavaScript" Course2="React JS"></ClassProps>
   <IsloggedIn></IsloggedIn>*/}
     {/* <AddCart></AddCart>  */}
+
+
+{/* /////////////////////////////////////////////////Lab3///////////////////////////////////////////////////////// */}
     {/* <Products/> */}
     {/* <Signup/> */}
-  <UserProvider value="MohamedSalah">
+  {/* <UserProvider value="MohamedSalah">
   <CompnentThree/>
  <CompnentFive/>
-  </UserProvider>
+  </UserProvider> */}
 
   <Post/>
     <Get/>
