@@ -1,0 +1,22 @@
+.product_container {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+  }
+  
+  .product_card {
+    width: 30%;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product_image {
+    height: 200px;
+    width: 100%;
+    background-position:center;
+  }
+
+  
+  
+  
+  

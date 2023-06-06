@@ -25,12 +25,7 @@ class Get extends Component{
                         {post.userId}<br></br>{post.id}<br></br>{post.title}<br></br>{post.body}
                     </div>
                 ))
-                
-                
                 }
-
-
-
             </div>
         )
     }

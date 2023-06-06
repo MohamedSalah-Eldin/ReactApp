@@ -12,6 +12,14 @@ import CompnentFive from './Lab3/Lab3_3.js/CompnentFive';
 import CompnentThree from './Lab3/Lab3_3.js/CompnentThree';
 import Get from './Lab3/Lab3_4/Get';
 import Post from './Lab3/Lab3_4/Post';
+import SignupHooks from './Lab4/Lab4_2/Lab4_2(ٍSignupHook)';
+import CompnentOneHooks from './Lab4/Lab4_3/ComponentoneHooks';
+import { UserProviderHooks } from './Lab4/Lab4_3/ContextHooks';
+import CompnentFiveHooks from './Lab4/Lab4_3/ComponentFiveHooks';
+import CompnentThreeHooks from './Lab4/Lab4_3/ComponentThreeHooks';
+import ProductsHooks from './Lab4/Lab4_1/ProductsHooks';
+import PostHooks from './Lab4/Lab4_4/PostHooks';
+import GetHooks from './Lab4/Lab4_4/GetHooks';
 
 
 function App() {
@@ -31,8 +39,22 @@ function App() {
  <CompnentFive/>
   </UserProvider> */}
 
-  <Post/>
-    <Get/>
+  {/* <Post/>
+    <Get/> */}
+
+    {/* /////////////////////////////////////////////////Lab4///////////////////////////////////////////////////////// */}
+    {/* <ProductsHooks/> */}
+    {/* <SignupHooks/> */}
+   {/* <UserProviderHooks value="MohamedSalah">
+    <CompnentFiveHooks/>
+    <CompnentThreeHooks/>
+   </UserProviderHooks> */}
+   {/* <PostHooks/>
+   <GetHooks/> */}
+
+    
+
+
 
   
   
